@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ListViewCustomAdapterExample</string>
+
+    <string-array name="player_name">
+
+        <item>Imrul Kayes</item>
+        <item>Tamim Iqbal</item>
+        <item>Mashrafi</item>
+        <item>Nazmul Islam</item>
+        <item>Mustafizur</item>
+        <item>Musfiq</item>
+        <item>Sommo Sarma</item>
+        <item>Mustafizur</item>
+        <item>Nazmul Islaml</item>
+        <item>Sakib Al hasan</item>
+        <item>Rubel Hossain</item>
+        <item>Taskin </item>
+        <item>Sabbir</item>
+    </string-array>
+</resources>
